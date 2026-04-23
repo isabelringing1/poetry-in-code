@@ -1,0 +1,14 @@
+{
+  "name": "poetry-in-code-marketplace",
+  "owner": {
+    "name": "Isabel Lee"
+  },
+  "plugins": [
+    {
+      "name": "poetry-in-code",
+      "source": "./",
+      "description": "Plugin that lets you read a random poem while waiting for Claude to work, inspired by the NYC Subway.",
+      "version": "1.0.0"
+    }
+  ]
+}
