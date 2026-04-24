@@ -1,8 +1,8 @@
-# poetry-in-code
-
-A Claude Code plugin that gives you a poem whenever you send Claude a prompt. 
+# Poetry In Code
 
 ![Cover Photo](cover.png)
+
+A Claude Code plugin that gives you a poem whenever you send Claude a prompt. Inspired by [Poetry in Motion](https://poetrysociety.org/poetry-in-motion), an initiative that places poetry in the transit systems of U.S. cities. 
 
 ## Poetry
 
