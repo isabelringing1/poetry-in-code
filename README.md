@@ -4,10 +4,6 @@
 
 A Claude Code plugin that gives you a poem whenever you send Claude a prompt. Inspired by [Poetry in Motion](https://poetrysociety.org/poetry-in-motion), an initiative that places poetry in the transit systems of U.S. cities. 
 
-## Poetry
-
-- Real poems by Dickinson, Whitman, Hopkins, Keats, Wordsworth, Blake, Frost, Teasdale, Rossetti, Shelley, Yeats, Stevens, Masefield, Henley, Bashō, Issa, Chiyo-ni, and Laozi. All public domain.
-
 ## Requirements
 
 ### macOS
