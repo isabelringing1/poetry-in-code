@@ -10,10 +10,18 @@ A Claude Code plugin that gives you a poem whenever you send Claude a prompt. In
 
 ## Requirements
 
-- **macOS.** The plugin uses `osascript` to spawn Terminal/iTerm windows, which is macOS-only. It will fail silently on Linux and Windows.
+### macOS
+
 - Claude Code (plugins are in public beta)
 - `jq` on your PATH (standard on macOS with Homebrew; `brew install jq` if missing)
+- `python3` on your PATH (preinstalled on macOS)
 - Terminal.app or iTerm2 as your terminal
+
+### Windows
+
+- Claude Code (plugins are in public beta)
+- PowerShell 5.1+ (preinstalled on Windows 10/11)
+- No additional dependencies — the PowerShell script handles JSON parsing and file operations natively
 
 ## Install from a marketplace
 
